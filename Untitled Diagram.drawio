@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T15:30:42.721Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3GGP2DwKydsz0mXZBEl6" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-19T15:31:08.263Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PjKqkzY-Cg_9RMQz8GUs" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
-    <mxGraphModel dx="2950" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5327" dy="4278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="pTYEqp93y5SNzYrnJhAv-181" value="&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Doggie无线控制&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1165" y="-2170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pTYEqp93y5SNzYrnJhAv-185" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1035" y="-2053" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
