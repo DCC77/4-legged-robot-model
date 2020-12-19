@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T09:20:37.507Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TNrUyE204x5ksZVAyFvP" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-19T09:21:45.024Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QckWDUu15SsHhHUq-Luy" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
     <mxGraphModel dx="1745" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="pTYEqp93y5SNzYrnJhAv-19" value="激活消息&lt;br&gt;[&quot;action&quot;]==&quot;activated&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-87.5" y="720" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pTYEqp93y5SNzYrnJhAv-20" value="未激活" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="617" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
