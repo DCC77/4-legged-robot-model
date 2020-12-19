@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T10:04:15.418Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pwPH3D6W5dGz1iu7OLWQ" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-19T10:04:22.825Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dy0-48pcrJp9E7UoGNiL" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
     <mxGraphModel dx="1745" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="-150" y="390" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pTYEqp93y5SNzYrnJhAv-37" value="激活成功，重新等待设备连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-170" y="840" width="110" height="20" as="geometry" />
+          <mxGeometry x="-177.5" y="830" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pTYEqp93y5SNzYrnJhAv-40" value="等待激活消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-147.5" y="720" width="80" height="20" as="geometry" />
