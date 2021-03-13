@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:31:06.929Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Mu4epNHbdr4CH_xgPfhL" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:32:09.452Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="tHbDgdHmiXPKL0xWVAHr" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
-    <mxGraphModel dx="2950" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2756" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -920,7 +920,7 @@
             <mxPoint x="1890" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOrPhlRol_vt9Mt8lMS5-240" value="AP模式-固定IP192.168.4.1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-240" value="STA联网模式" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1360" y="350" width="1100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-241" value="连接状态==N/A" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
