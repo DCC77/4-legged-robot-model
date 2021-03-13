@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:23:01.941Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="kAyr9Q3AylP_NU3Yr-_y" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:24:58.512Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Oh5flhgAt1OTXFpLStS5" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
-    <mxGraphModel dx="2950" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3858" dy="3502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -770,7 +770,7 @@
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-198" target="iOrPhlRol_vt9Mt8lMS5-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iOrPhlRol_vt9Mt8lMS5-198" value="消息==激活" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-198" value="心跳消息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="345" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.074;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-200" target="iOrPhlRol_vt9Mt8lMS5-193">
@@ -782,7 +782,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOrPhlRol_vt9Mt8lMS5-200" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;改写激活标志&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-200" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;返回心跳消息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6.75" y="346.25" width="100" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-201" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;break&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
@@ -878,7 +878,7 @@
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-221" value="APP断开连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255.25" y="529" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iOrPhlRol_vt9Mt8lMS5-222" value="IDE功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-222" value="Pad功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="459.75" y="210" width="124" height="45" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-223" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -894,7 +894,7 @@
           <mxGeometry x="-60" y="-270" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-229" value="状态=1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="242.75" y="-10" width="60" height="60" as="geometry" />
+          <mxGeometry x="226.75" y="-20" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-230" value="状态=2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="70" width="60" height="60" as="geometry" />
