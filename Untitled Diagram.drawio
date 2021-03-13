@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:47:06.725Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="v-MyEA_pIjO9ppKXAXEI" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:48:42.659Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="tzmbGU5avQqpHWMlxhpp" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
-    <mxGraphModel dx="6062" dy="4666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9001" dy="6218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-404" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="1920" width="4690" height="1920" as="geometry" />
+        </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-403" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=36;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="2650" y="960" width="1470" height="570" as="geometry" />
         </mxCell>
@@ -1216,6 +1219,9 @@
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-401" value="手机、pad 发送对方设备断开连接的消息，再发送自己连接的消息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="2788" y="1270" width="1152" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-406" value="两套主程序互不相关" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="776.54" y="1970" width="410" height="177.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
