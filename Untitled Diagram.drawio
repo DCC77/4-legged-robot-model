@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:24:58.512Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Oh5flhgAt1OTXFpLStS5" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:28:21.850Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="LPY1PjYSrond0FWohode" version="14.1.1" type="github">
   <diagram id="SIsZvFy45aXnX-BMXcz8" name="Page-1">
-    <mxGraphModel dx="3858" dy="3502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4803" dy="4001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -602,46 +602,46 @@
           <mxGeometry x="1327" y="-2103" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-77" value="AP模式-固定IP192.168.4.1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="-630" width="1100" height="80" as="geometry" />
+          <mxGeometry x="-820.81" y="350" width="1100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-78" value="连接状态==N/A" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="-410" width="130" height="40" as="geometry" />
+          <mxGeometry x="-1090.81" y="570" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-79" value="连接状态==手机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="-410" width="130" height="40" as="geometry" />
+          <mxGeometry x="-810.81" y="570" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-80" value="连接状态==控制板" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-410" width="130" height="40" as="geometry" />
+          <mxGeometry x="-520.81" y="570" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-81" value="广播状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="-340" width="150" height="40" as="geometry" />
+          <mxGeometry x="-1100.81" y="640" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-82" value="电量检测、充电提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="-270" width="150" height="40" as="geometry" />
+          <mxGeometry x="-1100.81" y="710" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-83" value="广播状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-995" y="-340" width="150" height="40" as="geometry" />
+          <mxGeometry x="-815.81" y="640" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-84" value="电量检测、充电提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-995" y="-270" width="150" height="40" as="geometry" />
+          <mxGeometry x="-815.81" y="710" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-85" value="软关机、度电压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-995" y="-200" width="150" height="40" as="geometry" />
+          <mxGeometry x="-815.81" y="780" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-86" value="广播状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-340" width="150" height="40" as="geometry" />
+          <mxGeometry x="-530.81" y="640" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-87" value="电量检测、充电提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-270" width="150" height="40" as="geometry" />
+          <mxGeometry x="-530.81" y="710" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-88" value="状态" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-456" y="-340" width="60" height="60" as="geometry" />
+          <mxGeometry x="-276.81" y="640" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-91" value="新线程" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-1275" y="-470" width="700" height="30" as="geometry" />
+          <mxGeometry x="-1095.81" y="510" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-92" value="主循环" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-303.25" y="-470" width="700" height="30" as="geometry" />
+          <mxGeometry x="-124.06" y="510" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="iOrPhlRol_vt9Mt8lMS5-165">
           <mxGeometry relative="1" as="geometry">
@@ -655,32 +655,32 @@
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-177" target="iOrPhlRol_vt9Mt8lMS5-180">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-143.21551724137953" y="-150" as="sourcePoint" />
+            <mxPoint x="35.97448275862047" y="830" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-168" target="iOrPhlRol_vt9Mt8lMS5-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-168" value="循环" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="-390" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="-22.810000000000002" y="590" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-171" target="iOrPhlRol_vt9Mt8lMS5-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-253.25" y="-130" as="targetPoint" />
+            <mxPoint x="-74.06" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-171" value="[&quot;dev&quot;]==&quot;app&quot;&lt;br&gt;或&lt;br&gt;&quot;[&quot;dev&quot;]==&quot;pad&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-228.25" y="-80" width="170" height="80" as="geometry" />
+          <mxGeometry x="-49.06" y="900" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-174">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-253.25" y="-40" as="targetPoint" />
+            <mxPoint x="-74.06" y="940" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-143.25" y="110" />
-              <mxPoint x="-253.25" y="110" />
+              <mxPoint x="35.94" y="1090" />
+              <mxPoint x="-74.06" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -688,81 +688,81 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-174" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;发送TCP消息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13.3333px&quot;&gt;端口：&lt;/span&gt;&lt;font color=&quot;#191919&quot; face=&quot;helvetica neue, helvetica, pingfang sc, hiragino sans gb, microsoft yahei, \5 fae8f6f96c59ed1, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;57723&lt;/span&gt;&lt;/font&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;(设备+激活标志)&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-203.25" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="-24.060000000000002" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-176">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-143.25" y="-270.00000000000045" as="targetPoint" />
+            <mxPoint x="35.94" y="709.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-176" value="循环" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="-330" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="-22.810000000000002" y="650" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-177" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;接收TCP消息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;端口：57722&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;(等待设备连接)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="-270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-22.810000000000002" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-180" target="iOrPhlRol_vt9Mt8lMS5-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-180" target="iOrPhlRol_vt9Mt8lMS5-176">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-223.25" y="-310" as="targetPoint" />
+            <mxPoint x="-44.06" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-143.25" y="-130" />
-              <mxPoint x="-253.25" y="-130" />
-              <mxPoint x="-253.25" y="-310" />
+              <mxPoint x="35.94" y="850" />
+              <mxPoint x="-74.06" y="850" />
+              <mxPoint x="-74.06" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-180" value="消息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="-180" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="-22.810000000000002" y="800" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-183" value="T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-143.25" y="-90" width="40" height="20" as="geometry" />
+          <mxGeometry x="35.94" y="890" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-184" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-244.5" y="-180" width="40" height="20" as="geometry" />
+          <mxGeometry x="-65.31" y="800" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-187" target="iOrPhlRol_vt9Mt8lMS5-189">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="521.75" y="60" />
+              <mxPoint x="700.94" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-187" target="iOrPhlRol_vt9Mt8lMS5-191">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190.75" y="115" as="targetPoint" />
+            <mxPoint x="369.94" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-187" value="[&quot;dev&quot;]==&quot;app&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115.75" y="30" width="150" height="60" as="geometry" />
+          <mxGeometry x="294.94" y="1010" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-189" target="iOrPhlRol_vt9Mt8lMS5-222">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-189" value="[&quot;dev&quot;]==&quot;pad&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446.75" y="126" width="150" height="60" as="geometry" />
+          <mxGeometry x="625.94" y="1106" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-191">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190.75" y="185" as="targetPoint" />
+            <mxPoint x="369.94" y="1165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-191" value="APP功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="128.75" y="114" width="124" height="45" as="geometry" />
+          <mxGeometry x="307.94" y="1094" width="124" height="45" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-193" target="iOrPhlRol_vt9Mt8lMS5-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-193" value="循环" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="185" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="311.19" y="1165" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-195" target="iOrPhlRol_vt9Mt8lMS5-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-195" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;接收TCP消息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;端口：57725&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;(APP指令)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130.75" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="309.94" y="1235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-198" target="iOrPhlRol_vt9Mt8lMS5-200">
           <mxGeometry relative="1" as="geometry" />
@@ -771,22 +771,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-198" value="心跳消息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="345" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="311.19" y="1325" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.074;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-200" target="iOrPhlRol_vt9Mt8lMS5-193">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="36.75" y="210" as="targetPoint" />
+            <mxPoint x="215.94" y="1190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-43.25" y="365" />
-              <mxPoint x="-43.25" y="204" />
+              <mxPoint x="135.94" y="1345" />
+              <mxPoint x="135.94" y="1184" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-200" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;返回心跳消息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6.75" y="346.25" width="100" height="37.5" as="geometry" />
+          <mxGeometry x="185.94" y="1326.25" width="100" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-201" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;break&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-63.25" y="50" width="50" height="20" as="geometry" />
+          <mxGeometry x="115.94" y="1030" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-204" target="iOrPhlRol_vt9Mt8lMS5-206">
           <mxGeometry relative="1" as="geometry" />
@@ -795,19 +795,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-204" value="消息==a1~a10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="410" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="311.19" y="1390" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-206">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-43.25" y="350" as="targetPoint" />
+            <mxPoint x="135.94" y="1330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-43.25" y="430" />
-              <mxPoint x="-43.25" y="360" />
+              <mxPoint x="135.94" y="1410" />
+              <mxPoint x="135.94" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-206" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;执行遥控动作&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6.75" y="411.25" width="100" height="37.5" as="geometry" />
+          <mxGeometry x="185.94" y="1391.25" width="100" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-209" target="iOrPhlRol_vt9Mt8lMS5-212">
           <mxGeometry relative="1" as="geometry" />
@@ -816,88 +816,109 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-209" value="消息==eraseap" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="477" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="311.19" y="1457" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-212">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-43.25" y="380" as="targetPoint" />
+            <mxPoint x="135.94" y="1360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190.75" y="600" />
-              <mxPoint x="-43.25" y="600" />
-              <mxPoint x="-43.25" y="430" />
+              <mxPoint x="369.94" y="1580" />
+              <mxPoint x="135.94" y="1580" />
+              <mxPoint x="135.94" y="1410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-219">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-203.25" y="-370" as="targetPoint" />
+            <mxPoint x="-24.060000000000002" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="336.75" y="560" />
-              <mxPoint x="336.75" y="650" />
-              <mxPoint x="-303.25" y="650" />
-              <mxPoint x="-303.25" y="-370" />
+              <mxPoint x="515.94" y="1540" />
+              <mxPoint x="515.94" y="1630" />
+              <mxPoint x="-124.06" y="1630" />
+              <mxPoint x="-124.06" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-212" value="消息==break" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="540" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="311.19" y="1520" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-213" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186.75" y="385" width="40" height="20" as="geometry" />
+          <mxGeometry x="365.94" y="1365" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-214" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186.75" y="457" width="40" height="20" as="geometry" />
+          <mxGeometry x="365.94" y="1437" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-215" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186.75" y="517" width="40" height="20" as="geometry" />
+          <mxGeometry x="365.94" y="1497" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-216" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186.75" y="580" width="40" height="20" as="geometry" />
+          <mxGeometry x="365.94" y="1560" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-218">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-43.25" y="497" as="targetPoint" />
+            <mxPoint x="135.94" y="1477" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1.75" y="497" />
+              <mxPoint x="180.94" y="1477" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-218" value="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; padding: 0px ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\5 fae8f6f96c59ed1&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; line-height: 1.2&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;清除配网信息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6.75" y="478.25" width="100" height="37.5" as="geometry" />
+          <mxGeometry x="185.94" y="1458.25" width="100" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-219" value="&lt;span style=&quot;color: rgb(25 , 25 , 25) ; font-size: 13.3333px&quot;&gt;break&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270.75" y="550" width="50" height="20" as="geometry" />
+          <mxGeometry x="449.94" y="1530" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-212" target="iOrPhlRol_vt9Mt8lMS5-219">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-283.25" y="650" as="targetPoint" />
-            <mxPoint x="249.4999999999991" y="560.0000000000002" as="sourcePoint" />
+            <mxPoint x="-104.06" y="1630" as="targetPoint" />
+            <mxPoint x="428.6899999999991" y="1540.0000000000002" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-221" value="APP断开连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255.25" y="529" width="81" height="20" as="geometry" />
+          <mxGeometry x="434.44" y="1509" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-222" value="Pad功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="459.75" y="210" width="124" height="45" as="geometry" />
+          <mxGeometry x="638.94" y="1190" width="124" height="45" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-223" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="252.75" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="431.94" y="1020" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-227" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-371" y="-250.59" as="sourcePoint" />
-            <mxPoint x="-481" y="-250.59" as="targetPoint" />
+            <mxPoint x="-191.81" y="729.41" as="sourcePoint" />
+            <mxPoint x="-301.81" y="729.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-228" value="状态=0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="-270" width="60" height="60" as="geometry" />
+          <mxGeometry x="119.19" y="710" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-229" value="状态=1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="226.75" y="-20" width="60" height="60" as="geometry" />
+          <mxGeometry x="405.94" y="960" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOrPhlRol_vt9Mt8lMS5-230" value="状态=2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="560" y="70" width="60" height="60" as="geometry" />
+          <mxGeometry x="739.19" y="1050" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-233" value="开机" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-410" width="438.06" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-234" value="读取删除配网消息标志" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="523.54" y="-140" width="590.97" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-237" value="读取运行模式标志" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="523.55" y="50" width="590.97" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-238" value="" style="endArrow=classic;html=1;fontSize=36;entryX=0.598;entryY=-0.102;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iOrPhlRol_vt9Mt8lMS5-237" target="iOrPhlRol_vt9Mt8lMS5-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="220" as="sourcePoint" />
+            <mxPoint x="600" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOrPhlRol_vt9Mt8lMS5-239" value="" style="endArrow=classic;html=1;fontSize=36;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="160" as="sourcePoint" />
+            <mxPoint x="1890" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
